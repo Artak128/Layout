@@ -1,0 +1,55 @@
+.blog {
+    padding: 46px 0 76.5px;
+    background-color: #FFFFFFFF;
+  }
+
+  .container {
+    width: 840px;
+    margin: auto;
+  }
+
+  .mainTitle {
+    font: 24px "Montserrat-medium", "sans-serif";
+  }
+
+  .mb15 {
+    margin-bottom: 15px;
+  }
+
+  .contentFlex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .mainContent {
+    width: 264px;
+  }
+
+  .mb16 {
+    margin-bottom: 16px;
+  }
+
+  .blogHeadings {
+    font: 16px "Montserrat-medium", "sans-serif";
+  }
+
+  .mb15 {
+    margin-bottom: 15px;
+  }
+
+  .mainTxt {
+    color: #999999;
+    font: 16px "Montserrat-light", "sans-serif";
+    line-height: 25.6px;
+  }
+
+  .link {
+    font: 16px "Montserrat-medium", "sans-serif";
+  }
+
+  .disabled {
+    pointer-events: none;
+    cursor: default;
+    color: #999999;
+  }

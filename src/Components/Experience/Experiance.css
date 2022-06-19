@@ -1,0 +1,42 @@
+.experience {
+    padding: 64px 0 51px;
+    background-color: #FFFFFFFF;
+  }
+
+  
+.container {
+    width: 840px;
+    margin: auto;
+  }
+
+.mainTitle {
+    font: 24px "Montserrat-medium", "sans-serif";
+}
+
+.mb22 {
+    margin-bottom: 22px;
+  }
+
+.contentFlex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .mb48 {
+    margin-bottom: 48px;
+  }
+
+.mainContent {
+    width: 264px;
+  }
+
+.contentFlexrow {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  } 
+  
+  .ml24 {
+    margin-left: 24px;
+  }  

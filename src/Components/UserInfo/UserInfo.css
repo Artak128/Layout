@@ -1,0 +1,42 @@
+.mb16 {
+    margin-bottom: 16px;
+}
+
+.mb8 {
+    margin-bottom: 8px;
+  }
+
+.container {
+    width: 840px;
+    margin: auto;
+}
+
+.userAvatar {
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin-bottom: 16px;
+}
+
+.link {
+    font: 16px "Montserrat-medium", "sans-serif";
+}
+
+.mainTitle {
+    font: 24px "Montserrat-medium", "sans-serif";
+  }
+
+.userInfo {
+    padding: 67px 0 46px;
+    background-color: #FFFFFFFF;
+  }
+  
+  .mainTxt {
+    color: #999999;
+    font: 16px "Montserrat-light", "sans-serif";
+    line-height: 25.6px;
+  }  

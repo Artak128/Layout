@@ -1,0 +1,27 @@
+.works {
+    padding: 76.5px 0 64px;
+    background-color: #FFFFFFFF;
+}
+
+.container {
+    width: 840px;
+    margin: auto;
+}
+
+.mainTitle {
+    font: 24px "Montserrat-medium", "sans-serif";
+}
+
+.mb15 {
+    margin-bottom: 15px;
+  }
+
+  .contentFlex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .mb24 {
+    margin-bottom: 24px;
+  }

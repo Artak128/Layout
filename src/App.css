@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "Montserrat-light";
+    src: url("./Fonts/Montserrat/Montserrat-Light.eot"); /* IE9 Compat Modes */
+    src: url("./Fonts/Montserrat/Montserrat-Light.eot?#iefix")
+        format("embedded-opentype"),
+      /* IE6-IE8 */ url("./Fonts/Montserrat/Montserrat-Light.woff2")
+        format("woff2"),
+      /* Super Modern Browsers */ url("./Fonts/Montserrat/Montserrat-Light.woff")
+        format("woff"),
+      /* Pretty Modern Browsers */ url("./Fonts/Montserrat/Montserrat-Light.ttf")
+        format("truetype"),
+      /* Safari, Android, iOS */ url("./Fonts/Montserrat/Montserrat-Light.svg")
+        format("svg"); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: "Montserrat-regular";
+    src: url("./Fonts/Montserrat/Montserrat-Regular.eot"); /* IE9 Compat Modes */
+    src: url("./Fonts/Montserrat/Montserrat-Regular.eot?#iefix")
+        format("embedded-opentype"),
+      /* IE6-IE8 */ url("./Fonts/Montserrat/Montserrat-Regular.woff2")
+        format("woff2"),
+      /* Super Modern Browsers */
+        url("./Fonts/Montserrat/Montserrat-Regular.woff") format("woff"),
+      /* Pretty Modern Browsers */
+        url("./Fonts/Montserrat/Montserrat-Regular.ttf") format("truetype"),
+      /* Safari, Android, iOS */ url("./Fonts/Montserrat/Montserrat-Regular.svg")
+        format("svg"); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: "Montserrat-medium";
+    src: url("./Fonts/Montserrat/Montserrat-Medium.eot"); /* IE9 Compat Modes */
+    src: url("./Fonts/Montserrat/Montserrat-Medium.eot?#iefix")
+        format("embedded-opentype"),
+      /* IE6-IE8 */ url("./Fonts/Montserrat/Montserrat-Medium.woff2")
+        format("woff2"),
+      /* Super Modern Browsers */ url("./Fonts/Montserrat/Montserrat-Medium.woff")
+        format("woff"),
+      /* Pretty Modern Browsers */ url("./Fonts/Montserrat/Montserrat-Medium.ttf")
+        format("truetype"),
+      /* Safari, Android, iOS */ url("./Fonts/Montserrat/Montserrat-Medium.svg")
+        format("svg"); /* Legacy iOS */
+  }
+
+  a {
+    color: #444;
+  }
+
+  
+input[type=text] {
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  width: 792px;
+  height: 40px;
+  margin-bottom: 24px;
+  padding: 12px 12px;
+  /* line-height: 17.07px; */
+}
+
+textarea {
+  width: 792px;
+  height: 81px;
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  resize: none;
+  padding: 12px 12px;
+  margin-bottom: 12px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+
+label {
+  display: block;
+  font: 14px "Montserrat-regular", "sans-serif";
+  margin-bottom: 8px;
+}
+
+::placeholder {
+  color: #e7e7e7;
+  font: 14px "Montserrat-regular", "sans-serif";
+  
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}
+
+input[type=submit]{
+  background: none;
+  border: none;
+  text-decoration: underline;
+  font: 16px "Montserrat-medium", "sans-serif";
+  color: #444444;
+  float: right;
+  cursor: pointer;
+ }

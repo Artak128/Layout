@@ -1,0 +1,41 @@
+.submit {
+    padding: 51px 0px 32px;
+    background-color: #FFFFFFFF;
+  }
+
+  .container {
+    width: 840px;
+    margin: auto;
+  }
+  
+  .mainInput {
+    background-color: #f9f9f9ff;
+    height: 480px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+  }
+
+  .input {
+    padding: 24px 24px 43px;
+  }
+  
+  .mainTitle {
+    font: 24px "Montserrat-medium", "sans-serif";
+  }
+
+  .mb8 {
+    margin-bottom: 8px;
+  }
+
+  .mainTxt {
+    color: #999999;
+    font: 16px "Montserrat-light", "sans-serif";
+    line-height: 25.6px;
+  }
+  
+  .mb33 {
+    margin-bottom: 33px;
+  }
